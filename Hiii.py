@@ -1,2 +1,1 @@
-for i in range(67):
-  print("why r u gay")
+BACKGROUND_COLOUR = "F571DB"
